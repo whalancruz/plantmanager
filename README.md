@@ -11,9 +11,8 @@ Para começar, você pode instalar as dependências do projeto com o npm ou yarn
 
 
 
-![image](https://github.com/whalancruz/plantmanager.app/assets/53834409/5e754e06-b04b-4316-ab5e-7e0ce2a228a2)
+![image](https://github.com/whalancruz/plantmanager/assets/53834409/a91a49e5-15c8-4074-9eef-e43716541a72)
 
-![image](https://github.com/whalancruz/plantmanager.app/assets/53834409/b2f454b2-6ec7-477b-84b9-d3137f9a0a46)
+![image](https://github.com/whalancruz/plantmanager/assets/53834409/dd62306e-10d4-42dc-8765-b477e7bd5851)
 
-![image](https://github.com/whalancruz/plantmanager.app/assets/53834409/636051ad-1f4a-4a28-9fd1-c1eb34ddb1ab)
-
+![image](https://github.com/whalancruz/plantmanager/assets/53834409/a578061e-e7ba-425b-86a8-d3917b5223c3)
