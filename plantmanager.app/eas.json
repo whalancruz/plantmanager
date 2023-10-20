@@ -1,0 +1,18 @@
+{
+  "cli": {
+    "version": ">= 5.4.0",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "production": {
+      "autoIncrement": true,
+      "android": {
+        "buildType": "apk",
+        "autoIncrement": "versionCode"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
